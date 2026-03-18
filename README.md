@@ -118,18 +118,6 @@ to help businesses make smarter decisions related to **inventory management and 
 
 ---
 
-## 📂 Project Structure
-
-```
-├── app.py
-├── demand_forecasting_model.pkl
-├── model_features.pkl
-├── online_retail.csv
-├── README.md
-```
-
----
-
 ## ▶️ How to Run Locally
 
 ```bash
