@@ -141,12 +141,6 @@ streamlit run app.py
 
 ---
 
-## 📷 App Preview
-
-(Add your screenshot here)
-
----
-
 ## 📊 Key Insights
 
 * Past sales strongly influence demand
