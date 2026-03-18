@@ -5,6 +5,7 @@
 🚀 Built as part of my Data Science & Analytics learning journey
 
 🔗 **Live Demo:** https://ai-retail-demand-forecasting.streamlit.app/
+
 🔗 **GitHub Repo:** https://github.com/coder-priyanka01/Retail-Demand-Forecasting-Project.git
 
 ---
